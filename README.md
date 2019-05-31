@@ -42,8 +42,8 @@ The following open source libraries or third party functions are used by this pr
 - [nanoflann](https://github.com/jlblancoc/nanoflann) is a C++ header-only library for building KD-Trees.
 ***
 ## References
->> [1] Chen, B.-F., & Chiang, H.-W. (1999). [Complete 2D and Fully Nonlinear Analysis of Ideal Fluid in Tanks](https://doi.org/10.1061/(asce)0733-9399(1999)125:1(70)). Journal of Engineering Mechanics, 125(1), 70–78.
+[1] Chen, B.-F., & Chiang, H.-W. (1999). [Complete 2D and Fully Nonlinear Analysis of Ideal Fluid in Tanks](https://doi.org/10.1061/(asce)0733-9399(1999)125:1(70)). Journal of Engineering Mechanics, 125(1), 70–78.
 
->> [2] Tsai, C.-C., Lin, Z.-H., & Hsu, T.-W. (2015). [Using a local radial basis function collocation method to approximate radiation boundary conditions](https://doi.org/10.1016/j.oceaneng.2015.06.030). Ocean Engineering, 105, 231–241. 
+[2] Tsai, C.-C., Lin, Z.-H., & Hsu, T.-W. (2015). [Using a local radial basis function collocation method to approximate radiation boundary conditions](https://doi.org/10.1016/j.oceaneng.2015.06.030). Ocean Engineering, 105, 231–241. 
 
->> [3] Chen, W., Zhuo. & Chen, C. (2014). Recent advances on radial basis function collocation methods. Berlin: Springer.
+[3] Chen, W., Zhuo. & Chen, C. (2014). Recent advances on radial basis function collocation methods. Berlin: Springer.
