@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# Run from this directory
+cd ${0%/*} ||exit 1     
+
+# Create a build directory
+mkdir build             
+
+# Go to build directory
+cd build                
+
+# Generate a project buildsystem
+cmake -G "Visual Studio 16 2019" ..               
+
+# Build a project
+cmake --build .        
