@@ -1,5 +1,7 @@
 # Solve 2D liquid sloshing problem by Method of fundamental solution
 
+![](wave_anim.gif)
+
 ## Introduction
 **MFS_Sloshing** is a simple CFD project that solves 2D liquid sloshing problems of inviscid fluid. The code can be modifide easily by students interested in learning meshless method. More features will be added in the future.
 
@@ -33,7 +35,7 @@ A class generate a retangular domain with orthogonal node distribution. The node
 ***
 ## Result
 The wave elevation profile on left wall is shown in the figure.
-![](wave_history.png)
+![](wave_profile.png)
 
 ***
 ## Dependencies
